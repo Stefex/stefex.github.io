@@ -1,6 +1,20 @@
 @media screen and (max-width: 1024px) {
   .about-container{
-    padding-right:80px
+    padding-right:100px
+  }
+
+  .img-profile-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    top: 24px;
+    right: 48px;
+  }
+
+  .appear{
+    width:150px;
+    height:150px
   }
 }
 
