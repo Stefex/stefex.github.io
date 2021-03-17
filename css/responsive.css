@@ -61,6 +61,10 @@
   .img-profile-container{
     display: none
   }
+
+  .about-container{
+    padding-right: 15px;
+  }
 }
 
 
