@@ -1,12 +1,12 @@
 @media screen and (max-width: 1024px) {
   .about-container{
-    padding-right:250px
+    padding-right:300px
   }
 
   .img-profile-container {
     position: absolute;
     top: 24px;
-    right: 80px;
+    right: 120px;
   }
 
   .appear{
