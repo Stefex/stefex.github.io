@@ -111,7 +111,7 @@ body {
   margin-bottom: -15px;
 }
 
-.vl {
+li .vl {
   background-color: var(--lightblue-grey);
   height: 90px;
   width: 1px;
@@ -134,7 +134,7 @@ body {
   z-index: 99999
 }
 
-.email-container li {
+.email-container li.email-label {
   list-style-type: none;
   margin-top: -35px;
   transform: rotate(90deg);
@@ -161,7 +161,7 @@ body {
   text-decoration: none;
 }
 
-.vl-right {
+li .vl-right {
     background-color: var(--lightblue-grey);
     height: 90px;
     width: 1px;
