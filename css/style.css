@@ -77,53 +77,6 @@ body {
   padding: 150px 0px;
 }
 
-.hero-container h1 {
-  font-family: 'Alfa Slab One', cursive;
-  color: var(--verdeacqua);
-  font-size: 16px;
-  font-weight: 100;
-  letter-spacing: 0.03em;
-  margin: 0px 0px 20px 3px;
-  display: block;
-}
-
-.device-non-supportato{
-  font-family: 'Alfa Slab One', cursive;
-  color: var(--verdeacqua);
-  font-size: 16px;
-  font-weight: 100;
-  letter-spacing: 0.03em;
-  margin: 0px 0px 20px 3px;
-  display: none;
-}
-
-.hero-container h2 {
-  font-family: 'Alfa Slab One', cursive;
-  font-size: 135px;
-  color: var(--white);
-  font-weight: 100;
-  line-height: 1.1em;
-  letter-spacing: 0.03em;
-  display: block;
-
-}
-
-.hero-container h3 {
-  font-family: var(--font-family-general);
-  font-size: 70px;
-  color: var(--white);
-  font-weight: 900
-}
-
-.hero-container p {
-  font-family: var(--font-family-general);
-  font-weight: normal;
-  color: var(--white);
-  font-size: 20px;
-  margin-top: 25px;
-  max-width: 500px
-}
-
 /*-------------- Social container ------------------------*/
 
 .social-container {
@@ -232,7 +185,7 @@ body {
 
 .about-container .about-description p {
   font-family: var(--font-family-general);
-  font-weight: normal;
+  font-weight: 400;
   color: var(--dark-blue);
   font-size: 30px;
   margin-top: 25px;
