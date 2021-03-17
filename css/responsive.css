@@ -5,13 +5,22 @@
 
   .img-profile-container {
     position: absolute;
-    top: 24px;
+    top: 40px;
     right: 120px;
   }
 
   .appear{
     width:150px;
     height:150px
+  }
+}
+
+@media screen and (width: 768px) {
+  .img-profile-container {
+    display:none
+  }
+  .about-container{
+    padding-right:250px
   }
 }
 
