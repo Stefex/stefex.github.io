@@ -67,6 +67,14 @@
   .about-container{
     padding-right: 15px;
   }
+
+  .social-footer a.facebook-footer{
+    font-size:30px
+  }
+
+  .social-footer a.instagram-footer{
+    font-size:30px
+  }
 }
 
 @media screen and (max-width: 360px){
